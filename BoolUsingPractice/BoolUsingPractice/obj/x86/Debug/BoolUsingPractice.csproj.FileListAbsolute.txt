@@ -1,0 +1,5 @@
+/home/alex/Projects/BoolUsingPractice/BoolUsingPractice/bin/Debug/BoolUsingPractice.exe
+/home/alex/Projects/BoolUsingPractice/BoolUsingPractice/bin/Debug/BoolUsingPractice.pdb
+/home/alex/Projects/BoolUsingPractice/BoolUsingPractice/obj/x86/Debug/BoolUsingPractice.csprojAssemblyReference.cache
+/home/alex/Projects/BoolUsingPractice/BoolUsingPractice/obj/x86/Debug/BoolUsingPractice.exe
+/home/alex/Projects/BoolUsingPractice/BoolUsingPractice/obj/x86/Debug/BoolUsingPractice.pdb
